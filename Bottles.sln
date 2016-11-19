@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bottles", "Bottles\Bottles.csproj", "{9FD3CDC8-3F2A-42F6-973A-A7A3B059D64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{105AD778-852E-4E20-AF92-A0ED4C63B332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD3CDC8-3F2A-42F6-973A-A7A3B059D64B}.Debug|x86.ActiveCfg = Debug|x86
+		{9FD3CDC8-3F2A-42F6-973A-A7A3B059D64B}.Debug|x86.Build.0 = Debug|x86
+		{9FD3CDC8-3F2A-42F6-973A-A7A3B059D64B}.Release|x86.ActiveCfg = Release|x86
+		{9FD3CDC8-3F2A-42F6-973A-A7A3B059D64B}.Release|x86.Build.0 = Release|x86
+		{105AD778-852E-4E20-AF92-A0ED4C63B332}.Debug|x86.ActiveCfg = Debug|x86
+		{105AD778-852E-4E20-AF92-A0ED4C63B332}.Debug|x86.Build.0 = Debug|x86
+		{105AD778-852E-4E20-AF92-A0ED4C63B332}.Release|x86.ActiveCfg = Release|x86
+		{105AD778-852E-4E20-AF92-A0ED4C63B332}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

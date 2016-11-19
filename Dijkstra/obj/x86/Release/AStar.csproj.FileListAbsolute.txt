@@ -1,0 +1,5 @@
+C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\bin\Release\AStar.dll
+C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\bin\Release\AStar.pdb
+C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\bin\Release\Priority Queue.dll
+C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\obj\x86\Release\AStar.dll
+C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\obj\x86\Release\AStar.pdb

@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Bottles/Bottles.csproj">
+  <MonoDevelop.Ide.ItemProperties.Bottles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bottles/Program.cs">
+    <Files>
+      <File FileName="Bottles/Program.cs" Line="2" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bottles" expanded="True">
+            <Node name="Bottles" expanded="True" />
+            <Node name="Dijkstra" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

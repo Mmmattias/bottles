@@ -1,0 +1,14 @@
+/Users/mattias/Projects/SDL2Demo/AStar/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Debug/AStar.dll.mdb
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Debug/AStar.dll
+/Users/mattias/Projects/SDL2Demo/AStar/obj/x86/Debug/AStar.dll
+/Users/mattias/Projects/SDL2Demo/AStar/obj/x86/Debug/AStar.dll.mdb
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Debug/Priority Queue.dll
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Debug/Priority Queue.dll.mdb
+/Users/mattias/Projects/Bottles/AStar/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mattias/Projects/Bottles/AStar/bin/Debug/AStar.dll.mdb
+/Users/mattias/Projects/Bottles/AStar/bin/Debug/AStar.pdb
+/Users/mattias/Projects/Bottles/AStar/bin/Debug/AStar.dll
+/Users/mattias/Projects/Bottles/AStar/obj/x86/Debug/AStar.dll
+/Users/mattias/Projects/Bottles/AStar/obj/x86/Debug/AStar.dll.mdb
+/Users/mattias/Projects/Bottles/AStar/obj/x86/Debug/AStar.pdb

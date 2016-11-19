@@ -1,0 +1,9 @@
+/Users/mattias/Projects/SDL2Demo/AStar/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Release/AStar.dll.mdb
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Release/AStar.dll
+/Users/mattias/Projects/SDL2Demo/AStar/obj/x86/Release/AStar.dll
+/Users/mattias/Projects/SDL2Demo/AStar/obj/x86/Release/AStar.dll.mdb
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Release/Priority Queue.dll
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Release/Priority Queue.dll.mdb
+/Users/mattias/Projects/SDL2Demo/AStar/bin/Release/AStar.pdb
+/Users/mattias/Projects/SDL2Demo/AStar/obj/x86/Release/AStar.pdb

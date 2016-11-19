@@ -1,0 +1,7 @@
+/Users/mattias/Projects/Bottles/Bottles/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mattias/Projects/Bottles/Bottles/bin/Debug/Bottles.exe.mdb
+/Users/mattias/Projects/Bottles/Bottles/bin/Debug/Bottles.exe
+/Users/mattias/Projects/Bottles/Bottles/obj/x86/Debug/Bottles.exe
+/Users/mattias/Projects/Bottles/Bottles/obj/x86/Debug/Bottles.exe.mdb
+/Users/mattias/Projects/Bottles/Bottles/bin/Debug/AStar.dll
+/Users/mattias/Projects/Bottles/Bottles/bin/Debug/AStar.dll.mdb
