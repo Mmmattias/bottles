@@ -1,5 +1,0 @@
-C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\bin\Debug\AStar.dll
-C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\bin\Debug\AStar.pdb
-C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\bin\Debug\Priority Queue.dll
-C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\obj\x86\Debug\AStar.dll
-C:\Users\Mattias\Downloads\MazeSolver\MazeSolver\AStar\obj\x86\Debug\AStar.pdb

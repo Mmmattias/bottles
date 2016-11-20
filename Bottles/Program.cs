@@ -37,7 +37,7 @@ namespace Bottles
 
 			foreach (var step in path)
 			{
-				Console.WriteLine("{0} {1}", step.Bottle1, step.Bottle2);
+				Console.WriteLine(step);
 			}
 		}
 	}
