@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Diagnostics;
 
 namespace Dijkstra
 {
@@ -9,9 +8,6 @@ namespace Dijkstra
 	{
 		public static IEnumerable<BottlesState> FindPath(BottleGraph map, BottlesState start, Func<BottlesState, bool> isDone)
 		{
-			var timer = new Stopwatch ();
-			timer.Start();
-
 			var foundPath = new List<BottlesState>();
 
 			int nodesChecked = 0;
@@ -67,9 +63,6 @@ namespace Dijkstra
 			}
 
 			foundPath = path.Reverse ().ToList();
-
-			Console.WriteLine ("Checked {0} nodes in {1} ms", nodesChecked, timer.ElapsedMilliseconds);
-			timer.Reset ();
 
 			return foundPath;
 		}
