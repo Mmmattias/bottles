@@ -1,5 +1,6 @@
 ﻿using System;
 using Dijkstra;
+using System.Linq;
 
 namespace Bottles
 {
@@ -34,6 +35,12 @@ namespace Bottles
 
 			var map = new BottleGraph(bottle1, bottle2);
 			var path = GraphPathSolver.FindPath(map, new BottlesState(bottle1, bottle2), x => x.Bottle1 == goal || x.Bottle2 == goal);
+
+			if (!path.Any())
+			{
+				Console.WriteLine("No solution found");
+				System.Environment.Exit(0);
+			}
 
 			foreach (var step in path)
 			{
