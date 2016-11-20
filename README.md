@@ -8,7 +8,7 @@ You have two unmarked bottles that can hold 3 liters and 5 liters respectively, 
 
 ---
 
-Lösningen är skriven i C# (portad från Rust, se nedan) och är en enkel konsol-applikation.
+Lösningen är skriven i C# (portad från Rust, se nedan) och är en enkel konsol-applikation som för givet start-state skriver ut nästa state som man behöver ta sig till för att nå en lösning på snabbast vis.
 
 Klona repo:t och bygg i Visual Studio eller MonoDevelop / Xamarin Studio.
 
